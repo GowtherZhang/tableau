@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 数据准备：用Prep Builder 清理数据与调整结构
 
 ## 数据清理和筛选
@@ -62,4 +61,3 @@ Prep 中的 Pivot 是转置，与 Excel 中的透视表不同。
 
 1. DeskTop 中是通过日期层次和度量聚合来完成从明细数据汇总来的聚合
 2. FIXED LOD 是独立于当前视图层次的指定层次的聚合
->>>>>>> refs/remotes/origin/main
